@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Bun dependency directory 
+bun.lockb
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
