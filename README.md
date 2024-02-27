@@ -10,7 +10,7 @@ Este es un formulario web simple que permite a los usuarios cargar imágenes. El
 
 [![License: ©](https://img.shields.io/badge/License-%C2%A9-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[![GitHub stars](https://img.shields.io/github/stars/ninjusdev/image-uploader-api.svg?style=social)](https://github.com/ninjusdev/image-uploader-api/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ninjusdev/firaUpload.svg?style=social)](https://github.com/ninjusdev/firaUpload/stargazers)
 
 ## Deployment
 
