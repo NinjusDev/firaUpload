@@ -113,7 +113,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 6. Espera la revisión y aprobación del pull request.
 
-[!WARNING] Recuerda leer el codigo de conduta en **contributing.md**
+> [!WARNING] Recuerda leer el codigo de conduta en **contributing.md**
 
 ## Authors
 
